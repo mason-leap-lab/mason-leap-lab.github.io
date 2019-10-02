@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to 
+(For a full list see [below](#conferences-and-workshops) or go to 
 [Google Scholar](https://scholar.google.com/citations?user=TMGwBH0AAAAJ&hl=en).
 
 {% assign number_printed = 0 %}
@@ -53,7 +53,7 @@ permalink: /publications/
 <!--p> &nbsp; </p-->
 
 
-## Conferences & Workshops
+## Conferences and Workshops
 
 {% for publi in site.data.publist %}
 
@@ -93,7 +93,7 @@ permalink: /publications/
 {% endfor %}
 
 
-## Posters & Demos
+## Posters and Demos
 
 {% for publi in site.data.posterlist %}
 
