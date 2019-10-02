@@ -27,7 +27,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <p><strong><a href="{{ publi.conf.url }}">{{ publi.conf.display }}</a></strong>  &nbsp;<a target="_blank" class="btn btn-primary btn-xs" role="button" href="{{ publi.link.url }}"> {{ publi.link.display }}</a></p>
+  <p><strong><a href="{{ publi.conf.url }}">{{ publi.conf.display }}</a></strong>  &nbsp;<a target="_blank" class="btn btn-primary btn-xs" role="button" href="{{ site.url }}/{{ publi.link.url }}"> {{ publi.link.display }}</a></p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
