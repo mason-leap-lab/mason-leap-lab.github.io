@@ -1,0 +1,25 @@
+- title: "MOANA: Modeling and Analyzing I/O Variability in Parallel System Experimental Design"
+  image: wukong.png
+  description: 
+  authors: Kirk W. Cameron, Ali Anwar, Yue Cheng, Bo Li, Li Xu, Ananth Uday, Thomas Lux, Yili Hong, Layne T. Watson, Ali R. Butt 
+  conf:
+    url: https://ieeexplore.ieee.org/document/8631172
+    display: "TPDS"
+  has_pdf: 1
+  link:
+    url: ./docs/tpds19-moana.pdf
+    display: pdf
+  news2:
+
+- title: "Provider versus Tenant Pricing Games for Hybrid Object Stores in the Cloud"
+  image: wukong.png
+  description: 
+  authors: Yue Cheng, M. Safdar Iqbal, Aayush Gupta, Ali R. Butt  
+  conf:
+    url: https://ieeexplore.ieee.org/document/8631172
+    display: "IEEE Internet Computing"
+  has_pdf:
+  link:
+    url: 
+    display: 
+  news2:

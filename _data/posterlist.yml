@@ -1,0 +1,25 @@
+- title: "HyperFaaS: A Truly Elastic Serverless Computing Framework"
+  image: STS_news.png
+  description:
+  authors: Jingyuan Zhang, Ao Wang, Min Li, Yuan Chen, Yue Cheng
+  conf:
+    url: https://www.usenix.org/conference/nsdi19
+    display: "USENIX NSDI'19"
+  has_pdf: 1
+  link:
+    url: ./docs/nsdi19-hyperfaas.pdf
+    display: pdf
+  news2:
+
+- title: "High Performance In-Memory Caching through Flexible Fine-Grained Services"
+  image: wukong.png
+  description:
+  authors: Yue Cheng, Aayush Gupta, Anna Povzner, Ali R. Butt
+  conf:
+    url: http://www.socc2013.org/
+    display: "ACM SoCC'13"
+  has_pdf: 1
+  link:
+    url: ./docs/socc13-cache.pdf
+    display: pdf
+  news2:

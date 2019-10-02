@@ -1,0 +1,28 @@
+- date: <strong>September 2019</strong>
+  headline: "Congrats to Ben, Jingyuan, and Ao on Wukong getting
+accepted by PDSW! <strong>Wukong</strong> is a super-fast serverless DAG engine
+compatible with AWS Lambda. Stay tuned for the release of Wukong_v0.<img src='/images/research/wukong.png' class='img-responsive' style='max-width: 192px' />"
+
+- date: <strong>August 2019</strong>
+  headline: "Our <a target='_blank' href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919075&HistoricalAwards=false'>collaborative SPX project</a> got funded by NSF."
+
+- date: <strong>March 2019</strong>
+  headline: "Congrates to Zheng on his <a target='_blank' href='./docs/opml19-fl.pdf'>OpML'19 paper</a>!"
+
+- date: <strong>Feburary 2019</strong>
+  headline: "<a target='_blank' href='./docs/vee19-vase.pdf'>VASE</a> is accepted by VEE'19. Congrats Li!"
+
+- date: <strong>Janurary 2019</strong>
+  headline: "<a target='_blank' href='./docs/nsdi19-hyperfaas.pdf'>HyperFaaS</a> accepted as a poster by NSDI'19. Congrats to Jingyuan and Ao!"
+
+- date: <strong>August 2018</strong>
+  headline: "Received a GCP Grant for cloud computing research."
+
+- date: <strong>August 2018</strong>
+  headline: "<a target='_blank' href='./docs/sc18-bespokv.pdf'>BespoKV</a> is accepted by SC'18."
+
+- date: <strong>July 2018</strong>
+  headline: "Received an AWS Grant for serverless computing research"
+
+- date: <strong>July 2018</strong>
+  headline: "Lab is online."

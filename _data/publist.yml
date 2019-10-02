@@ -1,0 +1,315 @@
+- title: "In Search of a Fast and Efficient Serverless DAG Engine"
+  image: wukong.png
+  description: "We thoroughly investigate the problem space of DAG
+scheduling in serverless computing. We identify and evaluate a set of
+techniques to make DAG schedulers serverless-aware. These techniques
+have been implemented in WUKONG, a serverless, DAG scheduler
+prototype attuned to AWS Lambda."
+  authors: Benjamin Carver, Jingyuan Zhang, Ao Wang, Yue Cheng
+  conf:
+    url: http://www.pdsw.org/index.shtml
+    display: "PDSW'19"
+  link:
+    url: ./docs/pdsw19-wukong.pdf
+    display: pdf
+  has_src: 1
+  src:
+    url: #
+    display: GitHub
+  highlight: 1
+  news2:
+
+- title: "Bolt: Towards a Scalable Docker Registry"
+  image: STS_news.png
+  description: 
+  authors: Michael Littley, Ali Anwar, Hannan Fayyaz, Zeshan Fayyaz, Vasily Tarasov, Lukas Rupprecht, Dimitrios Skourtis, Mohamed Mohamed, Heiko Ludwig, Yue Cheng, Ali R. Butt
+  conf:
+    url: https://ieeexplore.ieee.org/document/8814549
+    display: "IEEE Cloud'19"
+  link:
+    url: ./docs/cloud19-bolt.pdf
+    display: pdf
+  highlight: 
+  news2:
+
+- title: "Towards Taming the Resource and Data Heterogeneity in Federated Learning"
+  image: fl_arch.png
+  description: "In this paper, we study the impact of resource
+(e.g., CPU, memory, and network resources) and data (e.g., training
+dataset sizes) heterogeneity on the training time of FL. Then, we
+discuss the research problems and their challenges involved in taming
+such resource and data heterogeneity in FL systems."
+  authors: Zheng Chai, Hannan Fayyaz, Zeshan Fayyaz, Ali Anwar, Yi Zhou, Nathalie Baracaldo, Heiko Ludwig, Yue Cheng 
+  conf:
+    url: https://www.usenix.org/conference/opml19/presentation/chai
+    display: "USENIX OpML'19"
+  link:
+    url: ./docs/opml19-fl.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 1
+  news2:
+
+- title: "vCPU as a Container: Towards Accurate CPU Allocation for VMs"
+  image: STS_news.png
+  description: 
+  authors: Li Liu, Haoliang Wang, An Wang, Mengbai Xiao, Yue Cheng, Songqing Chen 
+  conf:
+    url: https://conf.researchr.org/home/vee-2019
+    display: "ACM VEE'19"
+  link:
+    url: ./docs/vee19-vase.pdf 
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "Analyzing Alibaba's Co-located Datacenter Workloads"
+  image: STS_news.png
+  description: 
+  authors: Yue Cheng, Ali Anwar, Xuejing Duan
+  conf:
+    url: http://cci.drexel.edu/bigdata/bigdata2018/
+    display: "IEEE BigData'18"
+  link:
+    url: ./docs/bigdata18-alibaba.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "BESPOKV: Application Tailored Scale-Out Key-Value Stores"
+  image: bespokv_arch.png
+  description: "BESPOKV decouples the KV store design into the
+control plane for distributed management and the data plane for local
+data store. BESPOKV takes as input a single-server KV store, called a
+datalet, and transparently enables a scalable and fault-tolerant
+distributed KV store service. The resulting distributed stores are
+also adaptive to consistency or topology requirement changes and can
+be easily extended for new types of services. " 
+  authors: Ali Anwar, Yue Cheng, Hai Huang, Jingoo Han, Hyogi Sim, Dongyoon Lee, Fred Douglis, Ali R. Butt
+  conf:
+    url: http://sc18.supercomputing.org/proceedings/tech_paper/tech_paper_pages/pap585.html
+    display: "SC'18"
+  link:
+    url: ./docs/sc18-bespokv.pdf
+    display: pdf
+  has_src: 1
+  src:
+    url: 
+    display: GitHub
+  highlight: 1
+  news2:
+
+- title: "Characterizing Co-located Datacenter Workloads: An Alibaba Case Study"
+  image: STS_news.png
+  description: 
+  authors: Yue Cheng, Zheng Chai, Ali Anwar
+  conf:
+    url: https://apsys18.kaist.ar.kr
+    display: "ACM APSys'18"
+  link:
+    url: ./docs/apsys18-alibaba.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "Improving Docker Registry Design based on Production Workload Analysis"
+  image: docker_study.png
+  description: "We perform a comprehensive characterization of a
+large-scale registry workload based on traces that we collected over
+the course of 75 days from five IBM data centers hosting
+production-level registries. We perform our analysis and infer a
+number of crucial insights about container workloads, such as request
+type distribution, access patterns, and response times."
+  authors: Ali Anwar, Mohamed Mohamed, Vasily Tarasov, Michael Littley, Lukas Rupprecht, Yue Cheng, Nannan Zhao, Dimitrios Skourtis, Amit S. Warke, Heiko Ludwig, Dean Hildebrand, Ali R. Butt
+  conf:
+    url: https://www.usenix.org/conference/fast18/presentation/anwar
+    display: "USENIX FAST'18"
+  link:
+    url: ./docs/fast18-docker.pdf
+    display: pdf
+  has_src: 1
+  src:
+    url: https://github.com/mason-leap-lab/IBM-docker-registry-traces
+    display: GitHub
+  highlight: 1
+  news2:
+
+- title: "Chameleon: An Adaptive Wear Balancer for Flash Clusters"
+  image: docker_study.png
+  description: 
+  authors: Nannan Zhao, Ali Anwar, Yue Cheng, Mohammed Salman, Daping Li, Jiguang Wan, Changsheng Xie, Xubin He, Feiyi Wang, Ali R. Butt
+  conf:
+    url: http://www.ipdps.org/
+    display: "IEEE IPDPS'18"
+  link:
+    url: ./docs/ipdps18-chameleon.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "Erasing Belady's Limitations: In Search of Flash Cache Offline Optimality"
+  image: offline_flash_caching.jpg
+  description: "We explore offline algorithms for flash caching in
+terms of both hit ratio and flash lifespan. We design and implement a
+multi-stage heuristic by synthesizing several techniques that manage
+data at the granularity of a flash erasure unit (which we call a
+container) to approximate the offline optimal algorithm."
+  authors: Yue Cheng, Fred Douglis, Philip Shilane, Michael Trachtman, Grant Wallace, Peter Desnoyers, Kai Li 
+  conf:
+    url: https://www.usenix.org/conference/atc16/technical-sessions/presentation/cheng
+    display: "USENIX ATC'16"
+  link:
+    url: ./docs/atc16-paper-cheng.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 1
+  news2:
+
+- title: "ClusterOn: Building Highly Configurable and Reusable Clustered Data Services using Simple Data Nodes"
+  image: offline_flash_caching.jpg
+  description: 
+  authors: Ali Anwar, Yue Cheng, Hai Huang, Ali R. Butt  
+  conf:
+    url: https://www.usenix.org/conference/hotstorage16/workshop-program/presentation/anwar
+    display: "USENIX HotStorage'16"
+  link:
+    url: ./docs/hotstorage16-clusteron.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "MOS: Workload-aware Elasticity for Cloud Object Stores"
+  image: offline_flash_caching.jpg
+  description: 
+  authors: Ali Anwar, Yue Cheng, Aayush Gupta, Ali R. Butt  
+  conf:
+    url: http://www.hpdc.org/2016/
+    display: "ACM HPDC'16"
+  link:
+    url: ./docs/hpdc16-mos.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "Towards Managing Variability in the Cloud"
+  image: offline_flash_caching.jpg
+  description: 
+  authors: Ali Anwar, Yue Cheng, Ali R. Butt  
+  conf:
+    url: ./docs/varsys16.pdf
+    display: "IEEE VarSys'16"
+  link:
+    url: 
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "Taming the Cloud Object Storage with MOS"
+  image: offline_flash_caching.jpg
+  description: 
+  authors: Ali Anwar, Yue Cheng, Aayush Gupta, Ali R. Butt  
+  conf:
+    url: http://www.pdsw.org/pdsw15/index.shtml
+    display: "ACM PDSW'15"
+  link:
+    url: ./docs/pdsw15-mos.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "Pricing Games for Hybrid Object Stores in the Cloud: Provider vs. Tenant"
+  image: offline_flash_caching.jpg
+  description: 
+  authors: Yue Cheng, M. Safdar Iqbal, Aayush Gupta, Ali R. Butt  
+  conf:
+    url: https://www.usenix.org/conference/hotcloud15/workshop-program/presentation/cheng
+    display: "USENIX HotCloud'15"
+  link:
+    url: ./docs/hotcloud15-pricing.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "CAST: Tiering Storage for Data Analytics in the Cloud"
+  image: offline_flash_caching.jpg
+  description: 
+  authors: Yue Cheng, M. Safdar Iqbal, Aayush Gupta, Ali R. Butt  
+  conf:
+    url: http://www.hpdc.org/2015/
+    display: "ACM HPDC'15"
+  link:
+    url: ./docs/hpdc15-cast.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 
+  news2:
+
+- title: "An In-Memory Object Caching Framework with Adaptive Load Balancing"
+  image: mbal_arch.jpg
+  description: "We design MBal, a high-performance in-memory object
+caching framework with adaptive <u>M</u>ultiphase load
+<u>B</u>alancing, which supports not only horizontal (scale-out) but
+vertical (scale-up) scalability as well. MBal is able to make
+efficient use of available resources in the cloud through its
+fine-grained, partitioned, lockless design. This design also lends
+itself naturally to provide adaptive load balancing both within a
+server and across the cache cluster through an event-driven,
+multi-phased load balancer." 
+  authors: Yue Cheng, Aayush Gupta, Ali R. Butt  
+  conf:
+    url: https://dl.acm.org/citation.cfm?id=2741967
+    display: "ACM EuroSys'15"
+  link:
+    url: ./docs/eurosys15-mbal.pdf
+    display: pdf
+  has_src: 
+  src:
+    url:
+    display: 
+  highlight: 1
+  news2:
