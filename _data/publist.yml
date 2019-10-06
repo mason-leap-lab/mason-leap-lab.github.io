@@ -14,7 +14,7 @@ prototype attuned to AWS Lambda."
     display: pdf
   has_src: 1
   src:
-    url: #
+    url: https://github.com/mason-leap-lab/Wukong
     display: GitHub
   highlight: 1
   news2:
