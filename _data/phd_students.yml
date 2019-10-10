@@ -1,28 +1,28 @@
 - name: Zheng Chai
   photo: electrocat.png
   info: PhD student, started Aug 2018
-  email: zchai2@gmu.edu
+  email: zchai2 _(AT)_ gmu (dot) edu
   number_ric: 0
   ri1: 
 
 - name: Ao Wang
   photo: dojocat.jpg
   info: PhD student, started Aug 2018
-  email: awang24@gmu.edu
+  email: awang24 _(AT)_ gmu (dot) edu
   number_ric: 0
   ri1: 
 
 - name: Jingyuan Zhang
   photo: JingyuanZhang.jpg
   info: PhD student, started Aug 2018
-  email: jzhang33@gmu.edu
+  email: jzhang33 _(AT)_ gmu (dot) edu
   number_ric: 0
   ri1: 
 
 - name: "This could be you !"
   photo: rock.jpg
   info: We are hiring
-  email: yuecheng@gmu.edu
+  email: yuecheng _(AT)_ gmu (dot) edu
   number_ri: 0
   ri1:
   ri2:
