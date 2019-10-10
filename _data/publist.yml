@@ -105,7 +105,7 @@ be easily extended for new types of services. "
     display: pdf
   has_src: 1
   src:
-    url: 
+    url: https://github.com/mason-leap-lab/bespokv
     display: GitHub
   highlight: 1
   news2:
@@ -118,12 +118,12 @@ be easily extended for new types of services. "
     url: https://apsys18.kaist.ar.kr
     display: "ACM APSys'18"
   link:
+    url: ./docs/apsys18-alibaba.pdf
+    display: pdf
+  has_src: 1
+  src:
     url: https://arxiv.org/abs/1808.02919
     display: arxiv
-  has_src: 
-  src:
-    url:
-    display: 
   highlight: 
   news2:
 
