@@ -118,8 +118,8 @@ be easily extended for new types of services. "
     url: https://apsys18.kaist.ar.kr
     display: "ACM APSys'18"
   link:
-    url: ./docs/apsys18-alibaba.pdf
-    display: pdf
+    url: https://arxiv.org/abs/1808.02919
+    display: arxiv
   has_src: 
   src:
     url:
