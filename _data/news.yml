@@ -1,7 +1,7 @@
 - date: <strong>September 2019</strong>
   headline: "Congrats to Ben, Jingyuan, and Ao on Wukong getting
 accepted by PDSW! <strong>Wukong</strong> is a super-fast serverless Python analytics framework
-compatible with AWS Lambda. Stay tuned for the release of Wukong_v0.<img src='/images/research/wukong.png' class='img-responsive' style='max-width: 192px' />"
+compatible with AWS Lambda and Dask. Check out our <a target='_blank' href='https://github.com/mason-leap-lab/Wukong'>release of Wukong_v0</a>.<img src='/images/research/wukong.png' class='img-responsive' style='max-width: 192px' />"
 
 - date: <strong>August 2019</strong>
   headline: "Our <a target='_blank' href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=1919075&HistoricalAwards=false'>collaborative SPX project</a> got funded by NSF."

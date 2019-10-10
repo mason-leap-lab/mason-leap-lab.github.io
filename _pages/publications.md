@@ -12,7 +12,7 @@ permalink: /publications/
 ## Highlights
 
 (For a full list see [below](#conferences-and-workshops) or go to 
-<a target="_blank" href="https://scholar.google.com/citations?user=TMGwBH0AAAAJ&hl=en">Google Scholar</a>.
+<a target="_blank" href="https://scholar.google.com/citations?user=TMGwBH0AAAAJ&hl=en">Google Scholar</a>.)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
