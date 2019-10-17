@@ -12,6 +12,10 @@ prototype attuned to AWS Lambda."
   link:
     url: ./docs/pdsw19-wukong.pdf
     display: pdf
+  has_arxiv: 1
+  arxiv:
+    url: https://arxiv.org/abs/1910.05896
+    display: arXiv
   has_src: 1
   src:
     url: https://github.com/mason-leap-lab/Wukong
@@ -120,8 +124,8 @@ be easily extended for new types of services. "
   link:
     url: ./docs/apsys18-alibaba.pdf
     display: pdf
-  has_src: 1
-  src:
+  has_arxiv: 1
+  arxiv:
     url: https://arxiv.org/abs/1808.02919
     display: arxiv
   highlight: 
