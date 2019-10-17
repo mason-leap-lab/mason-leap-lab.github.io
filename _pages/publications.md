@@ -60,9 +60,8 @@ permalink: /publications/
   <strong>{{ publi.title }}</strong> <br />
   <em>{{ publi.authors }} </em><br /><a target="_blank" href="{{ publi.conf.url }}"> {{ publi.conf.display }}</a>&nbsp;&nbsp; 
   <a target="_blank" class="btn btn-primary btn-sm" role="button" href="{{ site.baseurl }}/{{ publi.link.url }}"> {{ publi.link.display }}</a>{% if publi.has_arxiv == 1 %}
-  &nbsp;&nbsp;<a target="_blank" class="btn btn-success btn-sm" role="button" href="{{ publi.arxiv.url }}"> {{ publi.arxiv.display }}</a>
-  {% endif %}{% if publi.has_src == 1 %}
-  &nbsp;&nbsp;<a target="_blank" class="btn btn-info btn-sm" role="button" href="{{ publi.src.url }}"> {{ publi.src.display }}</a>
+  &nbsp;&nbsp;<a target="_blank" class="btn btn-success btn-sm" role="button" href="{{ publi.arxiv.url }}"> {{ publi.arxiv.display }}</a>{% endif %}{% if publi.has_src == 1 %}
+  &nbsp;&nbsp;<a target="_blank" class="btn btn-warning btn-sm" href="{{ publi.src.url }}"> {{ publi.src.display }}</a>
   {% endif %}
   
 
