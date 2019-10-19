@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<span class="glyphicon glyphicon-star" aria-hidden="true"></span> <font face="Palatino Linotype">"Leap" can be an acronym formed from the initials of many meaningful verbs in the context of experimental computer systems domain, for example:<br />
+<span class="glyphicon glyphicon-star" aria-hidden="true"></span> <font face="Palatino Linotype">"Leap" could be an acronym formed from the initials of many meaningful verbs in the context of experimental computer systems domain, for example:<br />
 <em>L: to Learn, E: to Enable, A: to Accelerate, P: to Propel.</em></font>
 <!--A research team whose goal is to <strong>p</strong>ropel computer systems techniques and <strong>e</strong>nhancements with insights learned through experiments and practical
 deployments.</font-->
