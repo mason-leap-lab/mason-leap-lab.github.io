@@ -15,7 +15,7 @@ deployments.</font-->
 
 We are a research team of [Computer Science](https://cs.gmu.edu) at [George Mason University](https://gmu.edu). 
 Our aim is to explore and build better systems software to sustain
-the requirements of next-generation applications.
+the requirements of next-generation data-intensive applications.
 
 We are interested in addressing challenges existing in
 real-world distributed and storage systems.  Our research is driven
