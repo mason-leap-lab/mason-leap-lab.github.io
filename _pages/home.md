@@ -29,8 +29,9 @@ software-hardware co-design.
 developers.** We are seeking Ph.D. students who are passionate about
 solving practical challenging problems in modern datacenter
 applications & systems. We are also open to working with Masters and
-undergrad students. Taking my grad systems classes (CS 795/675) is a good
-way to know more about relevant research in the fields.
+undergrad students. Taking my grad systems classes (CS
+[795](https://cs.gmu.edu/~yuecheng/teaching/cs795_fall18/index.html)/[675](https://tddg.github.io/cs675-spring20/))
+is a good way to know more about relevant research in the fields.
 
 <p><br/> </p>
 
