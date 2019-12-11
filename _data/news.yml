@@ -1,3 +1,11 @@
+- date: <strong>December 2019</strong>
+  headline: "Congrats to Ao, Jingyuan, and Xiaolong on InfiniCache
+getting accepted to <strong>USENIX FAST 2020</strong>!
+<strong>InfiniCache</strong> is a first-of-its-kind, cost-effective,
+object cache that is built atop ephemeral cloud funtions.
+InfiniCache is 50X cheaper than traditional cloud cache services.
+Stay tuned for more detail about the project."
+
 - date: <strong>November 2019</strong>
   headline: "Serving on the TPC for <a target='_blank'
 href='https://icdcs2020.sg/'>ICDCS'20</a> and <a target='_blank'
