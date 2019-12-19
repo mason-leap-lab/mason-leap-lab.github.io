@@ -1,3 +1,24 @@
+- title: "InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache"
+  image: wukong.png
+  description: 
+  authors: Ao Wang, Jingyuan Zhang, Xiaolong Ma, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Vasily Tarasov, Feng Yan, Yue Cheng
+  conf:
+    url: https://www.usenix.org/conference/fast20
+    display: "USENIX FAST '20"
+  link:
+    url: 
+    display: pdf
+  has_arxiv: 0
+  arxiv:
+    url: https://arxiv.org/abs/1910.05896
+    display: arXiv
+  has_src: 0
+  src:
+    url: https://github.com/mason-leap-lab/Wukong
+    display: GitHub
+  highlight: 0
+  news2:
+
 - title: "In Search of a Fast and Efficient Serverless DAG Engine"
   image: wukong.png
   description: "We thoroughly investigate the problem space of DAG
