@@ -1,6 +1,20 @@
 - title: "InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache"
-  image: wukong.png
-  description: 
+  image: infinicache_arch.eps
+  description: "We argue that the emerging serverless computing
+paradigm provides a well-suited, cost-effective platform for object
+caching.  We design and implement InfiniCache, a first-of-its-kind
+in-memory object caching system that is completely built and deployed
+atop ephemeral serverless functions.  InfiniCache exploits and
+orchestrates serverless functions' memory resources to enable elastic
+pay-per-use caching. InfiniCache's design combines erasure coding,
+intelligent billed duration control, and an efficient data backup
+mechanism to maximize data availability and cost effectiveness while
+balancing the risk of losing cached state and performance. We
+implement InfiniCache on AWS Lambda and show that it: (1) achieves 31
+-- 96X tenant-side cost savings compared to AWS ElastiCache for
+large-object only production workload, (2) can effectively provide
+95.4% data availability for each one hour window, and (3) enables
+comparative performance seen in a typical in-memory cache."
   authors: Ao Wang, Jingyuan Zhang, Xiaolong Ma, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Vasily Tarasov, Feng Yan, Yue Cheng
   conf:
     url: https://www.usenix.org/conference/fast20
@@ -16,7 +30,7 @@
   src:
     url: https://github.com/mason-leap-lab/Wukong
     display: GitHub
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "In Search of a Fast and Efficient Serverless DAG Engine"
