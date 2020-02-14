@@ -15,13 +15,13 @@ balancing the risk of losing cached state and performance."
   link:
     url: 
     display: pdf
-  has_arxiv: 0
+  has_arxiv: 1
   arxiv:
-    url: https://arxiv.org/abs/1910.05896
+    url: https://arxiv.org/abs/2001.10483
     display: arXiv
-  has_src: 0
+  has_src: 1
   src:
-    url: https://github.com/mason-leap-lab/Wukong
+    url: https://github.com/mason-leap-lab/infinicache
     display: GitHub
   highlight: 1
   news2:
