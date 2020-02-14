@@ -4,7 +4,8 @@ getting accepted to <strong>USENIX FAST 2020</strong>!
 <strong>InfiniCache</strong> is a first-of-its-kind, cost-effective,
 object cache that is built atop ephemeral cloud funtions.
 InfiniCache is 31-96X cheaper than traditional cloud cache services.
-Fork the src of InfiniCache <a target='_blank' href='https://github.com/mason-leap-lab/infinicache'>here</a>."
+<strong>Fork the src of InfiniCache</strong> <a target='_blank'
+href='https://github.com/mason-leap-lab/infinicache'>here</a>."
 
 - date: <strong>November 2019</strong>
   headline: "Serving on the TPC for <a target='_blank'
