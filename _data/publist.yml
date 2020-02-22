@@ -13,7 +13,7 @@ balancing the risk of losing cached state and performance."
     url: https://www.usenix.org/conference/fast20
     display: "USENIX FAST'20"
   link:
-    url: 
+    url: ./docs/fast20-infinicache.pdf
     display: pdf
   has_arxiv: 1
   arxiv:
