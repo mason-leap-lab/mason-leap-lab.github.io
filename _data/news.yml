@@ -1,5 +1,7 @@
 - date: <strong>December 2019</strong>
-  headline: "Congrats to Ao, Jingyuan, and Xiaolong on InfiniCache
+  headline: "Congrats to Ao, Jingyuan, and Xiaolong on <a
+target='_blank'
+href='https://mason-leap-lab.github.io/docs/fast20-infinicache.pdf'>InfiniCache</a>
 getting accepted to <strong>USENIX FAST 2020</strong>!
 <strong>InfiniCache</strong> is a first-of-its-kind, cost-effective,
 object cache that is built atop ephemeral cloud funtions.
