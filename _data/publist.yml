@@ -23,6 +23,10 @@ balancing the risk of losing cached state and performance."
   src:
     url: https://github.com/mason-leap-lab/infinicache
     display: GitHub
+  has_medium: 1
+  medium:
+    url: https://spectrum.ieee.org/tech-talk/computing/networks/pay-cloud-services-data-tool-news
+    display: "IEEE Spectrum"
   highlight: 1
   news2:
 
