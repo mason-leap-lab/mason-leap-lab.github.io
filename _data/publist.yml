@@ -10,10 +10,10 @@ mechanism to maximize data availability and cost effectiveness while
 balancing the risk of losing cached state and performance."
   authors: Ao Wang, Jingyuan Zhang, Xiaolong Ma, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Vasily Tarasov, Feng Yan, Yue Cheng
   conf:
-    url: https://www.usenix.org/conference/fast20
+    url: https://www.usenix.org/conference/fast20/presentation/wang-ao
     display: "USENIX FAST'20"
   link:
-    url: https://www.usenix.org/conference/fast20/presentation/wang-ao
+    url: ./docs/fast20-infinicache.pdf
     display: pdf
   has_arxiv: 1
   arxiv:
