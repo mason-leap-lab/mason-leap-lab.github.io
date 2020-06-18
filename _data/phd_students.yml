@@ -19,6 +19,13 @@
   number_ric: 0
   ri1: 
 
+- name: Yuqi Fu
+  photo: codercat.jpg
+  info: PhD student, started Aug 2020
+  email: yfu5 _(AT)_ gmu (dot) edu
+  number_ric: 0
+  ri1: 
+
 - name: "This could be you !"
   photo: rock.jpg
   info: We are hiring
