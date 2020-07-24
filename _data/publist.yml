@@ -7,7 +7,7 @@
     url: http://hpdc.org/2020/
     display: "HPDC'20"
   link:
-    url: 
+    url: ./docs/hpdc20-tifl.pdf
     display: pdf
   has_arxiv: 1
   arxiv:
