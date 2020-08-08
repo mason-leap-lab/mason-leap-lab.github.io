@@ -5,7 +5,7 @@
   authors: Benjamin Carver, Jingyuan Zhang, Ao Wang, Ali Anwar, Panruo Wu, Yue Cheng
   conf:
     url: https://acmsocc.github.io/2020/
-    display: "SoCC'20"
+    display: "ACM SoCC'20"
   link:
     url: 
     display: pdf
@@ -26,7 +26,7 @@
   authors: Zheng Chai, Ahsan Ali, Syed Zawad, Stacey Truex, Ali Anwar, Nathalie Baracaldo, Yi Zhou, Heiko Ludwig, Feng Yan, Yue Cheng
   conf:
     url: http://hpdc.org/2020/
-    display: "HPDC'20"
+    display: "ACM HPDC'20"
   link:
     url: ./docs/hpdc20-tifl.pdf
     display: pdf
