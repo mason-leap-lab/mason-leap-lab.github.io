@@ -1,4 +1,25 @@
 
+- title: "Wukong: A Scalable and Locality-Enhanced Framework for Serverless Parallel Computing"
+  image: wukong.png
+  description: ""
+  authors: Benjamin Carver, Jingyuan Zhang, Ao Wang, Ali Anwar, Panruo Wu, Yue Cheng
+  conf:
+    url: https://acmsocc.github.io/2020/
+    display: "SoCC'20"
+  link:
+    url: 
+    display: 
+  has_arxiv: 
+  arxiv:
+    url: https://arxiv.org/abs/1910.05896
+    display: arXiv
+  has_src: 
+  src:
+    url: https://github.com/mason-leap-lab/Wukong
+    display: GitHub
+  highlight: 
+  news2:
+
 - title: "TiFL: A Tier-based Federated Learning System"
   image: 
   description: 
