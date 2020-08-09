@@ -2,7 +2,7 @@
 - date: <strong>August 2020</strong>
   headline: "Congrats to Ben, Jingyuan, and Ao on <a target='_blank'
 href='https://scusemua.github.io/wukong-aws/'><strong>Wukong</strong></a> getting
-accepted by <a target='_blank', href='https://acmsocc.github.io/2020/'>ACM SoCC 2020</a>! 
+accepted by <a target='_blank' href='https://acmsocc.github.io/2020/'>ACM SoCC 2020</a>! 
 Wukong is a super-fast serverless parallel computing framework built atop
 AWS Lambda. Wukong achieves up to 68x speedup over state-of-the-art serverless
 parallel processing frameworks. Stay tuned for more info about Wukong!"
