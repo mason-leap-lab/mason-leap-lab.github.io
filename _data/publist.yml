@@ -1,7 +1,17 @@
 
 - title: "Wukong: A Scalable and Locality-Enhanced Framework for Serverless Parallel Computing"
   image: wukong.png
-  description: ""
+  description: "Our new serverless parallel framework, Wukong,
+uses a new data locality-enhanced decentralized scheduling to significantly
+boost the efficiency of stateful serverless applications.
+Decentralized scheduling enables scheduling to be distributed across
+Lambda executors that can schedule tasks in parallel, and brings
+multiple benefits, including enhanced data locality, reduced network
+I/Os, automatic resource elasticity, and improved cost effectiveness.
+We show that, on AWS Lambda, Wukong achieves near-ideal scalability,
+executes parallel computation jobs up to 68.17x faster, reduces
+network I/O by multiple orders of magnitude, and achieves 92.96%
+tenant-side cost savings compared to numpywren."
   authors: Benjamin Carver, Jingyuan Zhang, Ao Wang, Ali Anwar, Panruo Wu, Yue Cheng
   conf:
     url: https://acmsocc.github.io/2020/
@@ -17,7 +27,7 @@
   src:
     url: https://github.com/mason-leap-lab/Wukong
     display: GitHub
-  highlight: 
+  highlight: 1
   news2:
 
 - title: "Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training"
@@ -112,7 +122,7 @@ prototype attuned to AWS Lambda."
   src:
     url: https://github.com/mason-leap-lab/Wukong
     display: GitHub
-  highlight: 1
+  highlight: 
   news2:
 
 - title: "Bolt: Towards a Scalable Docker Registry"
