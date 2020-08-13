@@ -10,7 +10,7 @@ I/Os, automatic resource elasticity, and improved cost effectiveness.
 We show that, on AWS Lambda, Wukong achieves near-ideal scalability,
 executes parallel computation jobs up to 68.17x faster, reduces
 network I/O by multiple orders of magnitude, and achieves 92.96%
-tenant-side cost savings compared to numpywren."
+tenant-side cost savings compared to the state-of-the-art."
   authors: Benjamin Carver, Jingyuan Zhang, Ao Wang, Ali Anwar, Panruo Wu, Yue Cheng
   conf:
     url: https://acmsocc.github.io/2020/
