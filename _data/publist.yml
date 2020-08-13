@@ -20,6 +20,19 @@
   highlight: 
   news2:
 
+- title: "Tunable Subnetwork Splitting for Model-parallelism of Neural Network Training"
+  image: 
+  description: 
+  authors: Junxiang Wang, Zheng Chai, Yue Cheng, Liang Zhao
+  conf:
+    url: https://sites.google.com/view/optml-icml2020/home
+    display: "OPTML-ICML'20"
+  link:
+    url: 
+    display: pdf
+  highlight: 
+  news2:
+
 - title: "TiFL: A Tier-based Federated Learning System"
   image: 
   description: 
