@@ -2,9 +2,8 @@
 - title: "Wukong: A Scalable and Locality-Enhanced Framework for Serverless Parallel Computing"
   image: wukong.png
   description: "Our new serverless parallel framework, Wukong,
-uses a new data locality-enhanced decentralized scheduling to significantly
-boost the efficiency of stateful serverless applications.
-Decentralized scheduling enables scheduling to be distributed across
+takes a new serverless scheduling approach. This new approach, called
+decentralized scheduling, enables scheduling to be distributed across
 Lambda executors that can schedule tasks in parallel, and brings
 multiple benefits, including enhanced data locality, reduced network
 I/Os, automatic resource elasticity, and improved cost effectiveness.
