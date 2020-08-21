@@ -1,4 +1,17 @@
 
+- title: "Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework"
+  image: 
+  description: 
+  authors: Junxiang Wang, Zheng Chai, Yue Cheng, Liang Zhao
+  conf:
+    url: http://icdm2020.bigke.org/
+    display: "IEEE ICDM'20"
+  link:
+    url: 
+    display: pdf
+  highlight: 
+  news2:
+
 - title: "Wukong: A Scalable and Locality-Enhanced Framework for Serverless Parallel Computing"
   image: wukong.png
   description: "Our new serverless parallel framework, Wukong,
