@@ -69,8 +69,8 @@ range from large-scale distributed systems to cross-layer
 software-hardware co-design.  
 
 Our current efforts are focused on:
-(1) **improving serverless computing using a full-stack approach from
-applications, to middleware, to the lower-level OS** (watch [this
+(1) **improving serverless computing** using a full-stack approach from
+applications, to middleware, to the lower-level OS (watch [this
 Youtube video](https://youtu.be/RT81ia23vH8) summarizing our recent
 focus on serverless computing); and (2) **building better (computing
 and storage) systems for distributed machine learning**.  
