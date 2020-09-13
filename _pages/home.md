@@ -66,7 +66,14 @@ by the complexities of modern data-intensive computer systems, and
 the need for more efficient and flexible approaches to manage such
 complexities. We aim for innovation in systems technologies that
 range from large-scale distributed systems to cross-layer
-software-hardware co-design.   
+software-hardware co-design.  
+
+Our current efforts are focused on:
+(1) **improving serverless computing using a full-stack approach from
+applications, to middleware, to the lower-level OS** (watch [this
+Youtube video](https://youtu.be/RT81ia23vH8) summarizing our recent
+focus on serverless computing); and (2) **building better (computing
+and storage) systems for distributed machine learning**.  
 
 **We are committed to training the next-gen of systems researchers and
 developers.** We are seeking Ph.D. students who are passionate about
