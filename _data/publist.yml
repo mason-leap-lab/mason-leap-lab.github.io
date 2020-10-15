@@ -37,8 +37,8 @@ tenant-side cost savings compared to the state-of-the-art."
     display: arXiv
   has_src: 1
   src:
-    url: https://github.com/mason-leap-lab/Wukong
-    display: GitHub
+    url: https://mason-leap-lab.github.io/Wukong/
+    display: Project
   highlight: 1
   news2:
 
