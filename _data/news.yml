@@ -4,11 +4,13 @@
 
 - date: <strong>August 2020</strong>
   headline: "Congrats to Ben, Jingyuan, and Ao on <a target='_blank'
-href='https://mason-leap-lab.github.io/Wukong/'><strong>Wukong</strong></a> getting
+href='./docs/socc20-wukong.pdf'><strong>Wukong</strong></a> getting
 accepted by <a target='_blank' href='https://acmsocc.github.io/2020/'>ACM SoCC 2020</a>! 
 Wukong is a super-fast serverless parallel computing framework built atop
 AWS Lambda. Wukong achieves up to 68x speedup over state-of-the-art serverless
-parallel processing frameworks. Stay tuned for more info about Wukong!"
+parallel processing frameworks. <a target='_blank'
+href='https://mason-leap-lab.github.io/Wukong/'>Wukong project is
+online</a>. We are happy to accept contributions!"
 
 - date: <strong>July 2020</strong>
   headline: "Two projects got funded by NSF. With the new <a target='_blank' href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2018631&HistoricalAwards=false'>MRI

@@ -7,7 +7,7 @@
     url: http://icdm2020.bigke.org/
     display: "IEEE ICDM'20"
   link:
-    url: 
+    url: ./docs/icdm20-pdADMM.pdf
     display: pdf
   highlight: 
   news2:
@@ -29,13 +29,13 @@ tenant-side cost savings compared to the state-of-the-art."
     url: https://acmsocc.github.io/2020/
     display: "ACM SoCC'20"
   link:
-    url: 
+    url: ./docs/socc20-wukong.pdf
     display: pdf
   has_arxiv: 
   arxiv:
     url: https://arxiv.org/abs/1910.05896
     display: arXiv
-  has_src: 
+  has_src: 1
   src:
     url: https://github.com/mason-leap-lab/Wukong
     display: GitHub
