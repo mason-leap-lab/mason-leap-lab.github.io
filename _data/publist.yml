@@ -31,9 +31,13 @@ tenant-side cost savings compared to the state-of-the-art."
   link:
     url: ./docs/socc20-wukong.pdf
     display: pdf
-  has_arxiv: 
+  has_video: 1
+  video:
+    url: https://socc2020.wistia.com/medias/61t8irhv7h
+    display: video
+  has_arxiv: 1
   arxiv:
-    url: https://arxiv.org/abs/1910.05896
+    url: https://arxiv.org/abs/2010.07268
     display: arXiv
   has_src: 1
   src:
@@ -88,11 +92,15 @@ mechanism to maximize data availability and cost effectiveness while
 balancing the risk of losing cached state and performance."
   authors: Ao Wang, Jingyuan Zhang, Xiaolong Ma, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Vasily Tarasov, Feng Yan, Yue Cheng
   conf:
-    url: https://www.usenix.org/conference/fast20/presentation/wang-ao
+    url: https://www.usenix.org/conference/fast20
     display: "USENIX FAST'20"
   link:
     url: ./docs/fast20-infinicache.pdf
     display: pdf
+  has_video: 1
+  video:
+    url: https://www.usenix.org/conference/fast20/presentation/wang-ao
+    display: video
   has_arxiv: 1
   arxiv:
     url: https://arxiv.org/abs/2001.10483
