@@ -94,5 +94,5 @@ and [Google Cloud Platform](https://cloud.google.com/).
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GMU.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AWS.svg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GCP.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IBM_Cloud.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IBM_Cloud.png" style="width: 110px">
 </figure>
