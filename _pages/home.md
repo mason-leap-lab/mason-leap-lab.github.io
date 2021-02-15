@@ -86,8 +86,8 @@ is a good way to know more about relevant research in the fields.
 <p><br/> </p>
 
 We are grateful for the generous support from [National Science Foundation](https://www.nsf.gov),
-[George Mason University](https://gmu.edu), [Amazon Web Services](https://aws.amazon.com), 
-and [Google Cloud Platform](https://cloud.google.com/).
+[George Mason University](https://gmu.edu), [Amazon Web Services](https://aws.amazon.com),  [Google Cloud Platform](https://cloud.google.com/), 
+and [IBM Cloud](https://www.ibm.com/cloud).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 110px">
