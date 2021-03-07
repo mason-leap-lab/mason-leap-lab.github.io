@@ -83,16 +83,19 @@ undergrad students. Taking my grad systems classes (CS
 [795](https://cs.gmu.edu/~yuecheng/teaching/cs795_fall18/index.html)/[675](https://tddg.github.io/cs675-spring20/))
 is a good way to know more about relevant research in the fields.
 
+
 ## Research Talks
 
 <figure class="video_container">
-	[InfiniCache](https://www.usenix.org/conference/fast20/presentation/wang-ao):
 	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3_NmYAh5zek" frameborder="0" allowfullscreen></iframe>
-	[Wukong](https://mason-leap-lab.github.io/Wukong/):
 	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W0tENnx_58I" frameborder="0" allowfullscreen></iframe>
 </figure>
 
+
+
 <p><br/> </p>
+
+## Supports
 
 We are grateful for the generous support from [National Science Foundation](https://www.nsf.gov),
 [George Mason University](https://gmu.edu), [Amazon Web Services](https://aws.amazon.com),  [Google Cloud Platform](https://cloud.google.com/), 
