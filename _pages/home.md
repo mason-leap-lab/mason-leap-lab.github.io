@@ -86,11 +86,10 @@ is a good way to know more about relevant research in the fields.
 
 ## Research Talks
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3_NmYAh5zek" frameborder="0" allowfullscreen></iframe>
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=3_NmYAh5zek" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=W0tENnx_58I" frameborder="0" allowfullscreen></iframe>
+  <iframe width="280" height="157" src="https://www.youtube.com/embed/3_NmYAh5zek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="280" height="157" src="https://www.youtube.com/embed/W0tENnx_58I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 
