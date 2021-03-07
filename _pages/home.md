@@ -38,8 +38,8 @@ deployments.</font-->
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/sec19.png" alt="Slide 4" />
         </div>
         <!--div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/infinicache_efficacy.png" alt="Slide 5" /-->
-        </div>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/infinicache_efficacy.png" alt="Slide 5" />
+        </div-->
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/wukong_proj.png" alt="Slide 6" />
         </div>
