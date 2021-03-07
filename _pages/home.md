@@ -89,8 +89,8 @@ is a good way to know more about relevant research in the fields.
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=3_NmYAh5zek" frameborder="0" allowfullscreen></iframe>
 
 <figure class="video_container">
-	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3_NmYAh5zek" frameborder="0" allowfullscreen></iframe>
-	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W0tENnx_58I" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=3_NmYAh5zek" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=W0tENnx_58I" frameborder="0" allowfullscreen></iframe>
 </figure>
 
 
