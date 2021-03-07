@@ -98,7 +98,7 @@ is a good way to know more about relevant research in the fields.
 
 <p><br/> </p>
 
-## Supports
+## Support
 
 We are grateful for the generous support from [National Science Foundation](https://www.nsf.gov),
 [George Mason University](https://gmu.edu), [Amazon Web Services](https://aws.amazon.com),  [Google Cloud Platform](https://cloud.google.com/), 
