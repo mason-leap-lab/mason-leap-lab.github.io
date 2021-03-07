@@ -87,12 +87,16 @@ is a good way to know more about relevant research in the fields.
 
 <div class="row">
 	<div class="col-lg-6 p-3">
+		<div class="video-container">
 		[InfiniCache](https://www.usenix.org/conference/fast20/presentation/wang-ao):
 		<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3_NmYAh5zek" frameborder="0" allowfullscreen></iframe>
+		</div>
 	</div>
 	<div class="col-lg-6 p-3">
+		<div class="video-container">
 		[Wukong](https://mason-leap-lab.github.io/Wukong/):
 		<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W0tENnx_58I" frameborder="0" allowfullscreen></iframe>
+		</div>
 	</div>
 </div>
 
