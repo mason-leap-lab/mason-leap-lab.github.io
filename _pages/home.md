@@ -29,20 +29,20 @@ deployments.</font-->
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/infinicache_poster.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/team_sc19.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/wukong_proj.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ben_pdsw19_talk.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/team_sc19.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/sec19.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ben_pdsw19_talk.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/sec19.png" alt="Slide 5" />
         </div>
         <!--div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/infinicache_efficacy.png" alt="Slide 5" />
         </div-->
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/wukong_proj.png" alt="Slide 6" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
