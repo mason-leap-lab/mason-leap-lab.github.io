@@ -85,14 +85,12 @@ is a good way to know more about relevant research in the fields.
 
 ## Research Talks
 
-<div class="box">
-		[InfiniCache](https://www.usenix.org/conference/fast20/presentation/wang-ao):
-		<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3_NmYAh5zek" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="box">
-		[Wukong](https://mason-leap-lab.github.io/Wukong/):
-		<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W0tENnx_58I" frameborder="0" allowfullscreen></iframe>
-</div>
+<figure class="video_container">
+	[InfiniCache](https://www.usenix.org/conference/fast20/presentation/wang-ao):
+	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3_NmYAh5zek" frameborder="0" allowfullscreen></iframe>
+	[Wukong](https://mason-leap-lab.github.io/Wukong/):
+	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W0tENnx_58I" frameborder="0" allowfullscreen></iframe>
+</figure>
 
 <p><br/> </p>
 
