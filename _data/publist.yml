@@ -253,7 +253,7 @@ be easily extended for new types of services. "
     url: http://sc18.supercomputing.org/proceedings/tech_paper/tech_paper_pages/pap585.html
     display: "SC'18"
   link:
-    url: ./docs/sc18-bespokv.pdf
+    url: ./docs/sc18-bespokv-aa.pdf
     display: pdf
   has_src: 1
   src:
