@@ -1,4 +1,17 @@
 
+- title: "FedAT: A High-Performance and Communication-Efficient Federated Learning System with Asynchronous Tiers"
+  image: 
+  description: 
+  authors: Zheng Chai, Yujing Chen, Ali Anwar, Liang Zhao, Yue Cheng, Huzefa Rangwala
+  conf:
+    url: https://sc21.supercomputing.org/
+    display: "SC21"
+  link:
+    url: 
+    display: pdf
+  highlight: 
+  news2:
+
 - title: "FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Computing"
   image: 
   description: 
@@ -7,7 +20,7 @@
     url: https://www.usenix.org/conference/atc21
     display: "USENIX ATC'21"
   link:
-    url: 
+    url: ./docs/atc21-faasnet.pdf
     display: pdf
   highlight: 
   news2:
